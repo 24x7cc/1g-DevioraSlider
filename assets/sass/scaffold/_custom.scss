@@ -1,0 +1,72 @@
+
+$web-font-path: "https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,700" !default;
+
+@font-face {
+    font-family: 'OpenSans';
+    src: url($web-font-path);
+}
+
+/*------------------------------------*\
+    # Scaffold for page
+\*------------------------------------*/
+
+body {
+    font: 16px/22px "OpenSans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: $base-font-color;
+}
+
+.full-size-slider {
+    > li {
+        position: relative;
+    }
+}
+.ui-header-block {
+    height: 70px;
+    padding: 0 20px;
+
+    h1 {
+        height: inherit;
+        line-height: 70px;
+        margin: 0;
+        font-weight: 600;
+        color: $base-accent-color;
+
+        small {
+            color: $base-primary-color;
+        }
+    }
+}
+.ui-content-slider-block {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    color: #fff;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+
+    &:before {
+        content: '';
+        display: inline-block;
+        vertical-align: middle;
+        text-align: center;
+        margin-left: -5px;
+        height: 100%;
+    }
+}
+.ui-content-slider-text {
+    display: inline-block;
+    vertical-align: middle;
+    background: rgba(0,0,0, 0.3);
+    padding: 10px 20px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+
+    h3 {
+        margin: 0;
+        font-size: 40px;
+        line-height: 40px;
+        font-weight: 600;
+    }
+}
