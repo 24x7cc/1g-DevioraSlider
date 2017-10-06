@@ -4,7 +4,7 @@
 ---
 
 _Не удаляйте и не изменяйте папки и файлы:_
-_`.editorconfig`, `.gitignore`, `.travis.yml`, `package.json`._
+_`.editorconfig`, `.gitignore`, `package.json`._
 
 ---
 
@@ -18,17 +18,17 @@ _`.editorconfig`, `.gitignore`, `.travis.yml`, `package.json`._
 
 Откройте репозиторий и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии будет скопирован в ваш аккаунт.
 
-<img width="769" alt="Press 'Fork'" src="http://prntscr.com/gu3y2k">
+<img width="769" alt="Press 'Fork'" src="https://image.prntscr.com/image/pi86GuaRSAacEPQ-YlMSOg.png">
 
 Получится вот так:
 
-<img width="769" alt="Forked" src="http://prntscr.com/gu3yuh">
+<img width="769" alt="Forked" src="https://image.prntscr.com/image/36a8Xk-TRHCJ3LqmCXnJag.png">
 
 #### 3. Клонируйте репозиторий на свой компьютер
 
 Будьте внимательны: нужно клонировать свой репозиторий (форк), а не репозиторий Академии. Также обратите внимание, что клонировать репозиторий нужно через SSH, а не через HTTPS. Нажмите зелёную кнопку в правой части экрана, чтобы скопировать SSH-адрес вашего репозитория:
 
-<img width="769" alt="SSH" src="http://prntscr.com/gu3za4">
+<img width="769" alt="SSH" src="https://image.prntscr.com/image/D4qWl1eoRV2Ug6CHt4pCSQ.png">
 
 Клонировать репозиторий можно так:
 
@@ -42,6 +42,7 @@ git clone SSH-адрес_вашего_форка
 
 ---
 
-<a href="https://t.me/code_camp_24x7"><img align="left" width="50" height="50" title="HTML Academy" src="https://cdn-images-1.medium.com/max/380/1*XPFqkwuTUNw3pYH_7k_I_Q.png"></a>
+<a href="https://t.me/code_camp_24x7"><img align="left" width="75" height="54" title="24x7 Code Camp" src="https://cdn-images-1.medium.com/max/380/1*XPFqkwuTUNw3pYH_7k_I_Q.png"></a>
 
-Репозиторий создан для обучения на интенсивном онлайн‑курсе «[Основы JavaScript](http://telegra.ph/Programma-onlajn-kursov-JavaScript-Ot-novichka-k-Guru-stuktura-programmy-obnovlyaetsya-09-27)» от [24x7 Code Camp](https://t.me/code_camp_24x7).
+Репозиторий создан для обучения на интенсивном онлайн‑курсе «[Основы JavaScript](http://telegra.ph/Programma-onlajn-kursov-JavaScript-Ot-novichka-k-Guru-stuktura-programmy-obnovlyaetsya-09-27)» 
+от [24x7 Code Camp](https://t.me/code_camp_24x7).
